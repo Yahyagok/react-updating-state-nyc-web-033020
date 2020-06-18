@@ -1,0 +1,10 @@
+//this.setState({
+  addressInfo: {
+    ...this.state.addressInfo,
+    city: 'New York City'
+  }
+});
+
+...this.state.addressInfo will bring all the prev info and and will 
+owerwite city 
+ 
